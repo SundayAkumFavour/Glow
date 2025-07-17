@@ -49,6 +49,7 @@ export default {
         'cosmic-gradient': 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
         'star-field': 'radial-gradient(2px 2px at 20px 30px, #eee, transparent), radial-gradient(2px 2px at 40px 70px, #fff, transparent), radial-gradient(1px 1px at 90px 40px, #fff, transparent), radial-gradient(1px 1px at 130px 80px, #fff, transparent), radial-gradient(2px 2px at 160px 30px, #ddd, transparent)',
         'nebula': 'radial-gradient(ellipse at center, rgba(147, 51, 234, 0.15) 0%, transparent 70%)',
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },
       animation: {
         'float': 'float 6s ease-in-out infinite',
